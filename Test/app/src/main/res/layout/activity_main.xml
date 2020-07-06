@@ -19,6 +19,32 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.48" />
 
+    <RadioGroup
+        android:id="@+id/L6_radioGroup2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="150dp"
+        android:layout_marginBottom="144dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent">
+
+        <RadioButton
+            android:id="@+id/L6_g2_radiobt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="老用户" />
+
+        <RadioButton
+            android:id="@+id/L6_g2_radiobt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="新用户" />
+
+    </RadioGroup>
+
+
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
@@ -27,7 +53,7 @@
         android:layout_marginBottom="144dp"
         android:text="登录"
         android:textColor="@color/colorWhite"
-        android:background=android:background="@drawable/shape"
+        android:background="@drawable/shape"
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -49,29 +75,37 @@
         android:id="@+id/edtex_user_account"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="账户名/手机号/邮箱"
+        android:layout_marginBottom="292dp"
         android:ems="10"
-        android:inputType="textPassword"
-        tools:layout_editor_absoluteX="98dp"
-        tools:layout_editor_absoluteY="406dp" />
+        android:hint="账户名/手机号/邮箱"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
 
     <EditText
         android:id="@+id/edtex_user_password"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="224dp"
         android:ems="10"
         android:hint="密码："
         android:inputType="textPassword"
-        tools:layout_editor_absoluteX="98dp"
-        tools:layout_editor_absoluteY="463dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
 
     <Switch
         android:id="@+id/switch_showpassword"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="密码显示"
-        tools:layout_editor_absoluteX="313dp"
-        tools:layout_editor_absoluteY="470dp" />
+        android:layout_marginBottom="232dp"
+        android:text="显示"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.991"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

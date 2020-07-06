@@ -21,10 +21,11 @@ public class MainActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                tv.setText("I love bytedance");
+                tv.setText("登陆成功");
             }
         });
 
-        Log.i("111111", "onCreate: 1111");
+        Log.i("111111", "Button Down");
+
     }
 }
