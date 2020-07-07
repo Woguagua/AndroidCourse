@@ -69,11 +69,33 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 //                tv.setText(UsrAccount+"登陆成功");
-                tv.setText(UsrAccount);
+                tv.setText(UsrAccount + "登陆成功");
                 Log.i("111111", "Button Down");
             }
 
         });
+
+//        edtex_user_account.addTextChangedListener(new TextWatcher() {
+//            @Override
+//            public void onTextChanged(CharSequence s, int start, int before, int count) {
+//                Log.i("4444444", "输入文字中的状态，count是输入字符数");
+//                Log.i("4444444", editText.getText().toSrting());
+//            }
+//
+//            @Override
+//            public void beforeTextChanged(CharSequence s, int start, int count,
+//                                          int after) {
+//                Log.i("4444444", "输入文本之前的状态");
+//            }
+//
+//            @Override
+//            public void afterTextChanged(Editable s) {
+//                Log.i("4444444", "输入文字后的状态");
+//            }
+//        });
+
+
+
 
 
 
