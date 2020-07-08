@@ -25,9 +25,8 @@
             android:name=".Ch3Ex2Activity"
             android:label="@string/ex2"></activity>
         <activity
-            android:name=".Ch3Ex3Activity"
+            android:name=".fragment.Ch3Ex3Activity"
             android:label="@string/ex3"></activity>
-
     </application>
 
 </manifest>

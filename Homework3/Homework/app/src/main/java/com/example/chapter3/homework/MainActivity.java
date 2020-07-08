@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
+import com.example.chapter3.homework.fragment.Ch3Ex3Activity;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -27,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.btn_ex3).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+//                startActivity(new Intent(MainActivity.this, Ch3Ex3Activity.class));
                 startActivity(new Intent(MainActivity.this, Ch3Ex3Activity.class));
             }
         });
