@@ -9,6 +9,7 @@ import android.os.Handler;
 import android.util.AttributeSet;
 import android.view.View;
 
+
 import androidx.annotation.Nullable;
 
 import java.util.ArrayList;
@@ -27,6 +28,7 @@ public class ClockView extends View {
     private static final float HOUR_NEEDLE_LENGTH_RATIO = 0.4f; // 时针长度相对表盘半径的比例
     private static final float MINUTE_NEEDLE_LENGTH_RATIO = 0.6f; // 分针长度相对表盘半径的比例
     private static final float SECOND_NEEDLE_LENGTH_RATIO = 0.8f; // 秒针长度相对表盘半径的比例
+    private static final float NUMBER_LENGTH_RATIO = 0.8f;//数字长度相对表盘半径的比例
     private static final float HOUR_NEEDLE_WIDTH = 12; // 时针的宽度
     private static final float MINUTE_NEEDLE_WIDTH = 8; // 分针的宽度
     private static final float SECOND_NEEDLE_WIDTH = 4; // 秒针的宽度
@@ -73,6 +75,12 @@ public class ClockView extends View {
         needlePaint.setStrokeCap(Paint.Cap.ROUND);
         needlePaint.setStyle(Paint.Style.STROKE);
         // TODO 设置绘制时间数字的画笔: numberPaint
+        numberPaint.setAntiAlias(true);
+        numberPaint.setColor(Color.WHITE);
+        needlePaint.setStrokeWidth(5);
+        numberPaint.setTextSize(80);
+        numberPaint.setStyle(Paint.Style.FILL);
+        numberPaint.setTextAlign(Paint.Align.CENTER);
     }
 
     @Override
@@ -183,6 +191,12 @@ public class ClockView extends View {
 
     private void drawTimeNumbers(Canvas canvas) {
         // TODO 绘制表盘时间数字（可选）
+//        canvas.drawText("01",centerX,centerY,numberPaint);
+        for(int i = 1; i <= 12; i++){
+//            canvas.drawText("01",centerX,centerY,numberPaint);
+//            canvas.drawText("hhh", (float) (centerX + radius * NUMBER_LENGTH_RATIO * Math.cos(Math.toRadians(i * 60 - 90))), (float) (centerY + radius * NUMBER_LENGTH_RATIO * Math.sin(Math.toRadians(i * 60 - 90))), numberPaint);
+            canvas.drawText(String.valueOf(i), (float) (centerX + radius * NUMBER_LENGTH_RATIO * Math.cos(Math.toRadians(i * 30 - 90))), (float) (centerY + radius * NUMBER_LENGTH_RATIO * Math.sin(Math.toRadians(i * 30 - 90)) + 30), numberPaint);
+        }
     }
 
     // 获取当前的时间：时、分、秒
