@@ -195,7 +195,15 @@ public class ClockView extends View {
         for(int i = 1; i <= 12; i++){
 //            canvas.drawText("01",centerX,centerY,numberPaint);
 //            canvas.drawText("hhh", (float) (centerX + radius * NUMBER_LENGTH_RATIO * Math.cos(Math.toRadians(i * 60 - 90))), (float) (centerY + radius * NUMBER_LENGTH_RATIO * Math.sin(Math.toRadians(i * 60 - 90))), numberPaint);
-            canvas.drawText(String.valueOf(i), (float) (centerX + radius * NUMBER_LENGTH_RATIO * Math.cos(Math.toRadians(i * 30 - 90))), (float) (centerY + radius * NUMBER_LENGTH_RATIO * Math.sin(Math.toRadians(i * 30 - 90)) + 30), numberPaint);
+            if(i < 10){
+                canvas.drawText("0" + String.valueOf(i), (float) (centerX + radius * NUMBER_LENGTH_RATIO * Math.cos(Math.toRadians(i * 30 - 90))), (float) (centerY + radius * NUMBER_LENGTH_RATIO * Math.sin(Math.toRadians(i * 30 - 90)) + 20), numberPaint);
+
+            }
+            else{
+                canvas.drawText(String.valueOf(i), (float) (centerX + radius * NUMBER_LENGTH_RATIO * Math.cos(Math.toRadians(i * 30 - 90))), (float) (centerY + radius * NUMBER_LENGTH_RATIO * Math.sin(Math.toRadians(i * 30 - 90)) + 20), numberPaint);
+
+            }
+//            canvas.drawText(String.valueOf(i), (float) (centerX + radius * NUMBER_LENGTH_RATIO * Math.cos(Math.toRadians(i * 30 - 90))), (float) (centerY + radius * NUMBER_LENGTH_RATIO * Math.sin(Math.toRadians(i * 30 - 90)) + 30), numberPaint);
         }
     }
 
