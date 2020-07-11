@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:lib] /Users/flora/Android_Course/NetworkDemo/dou/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/011b1159cb482ce1708558806e60f138/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/flora/.gradle/caches/transforms-2/files-2.1/19f600adb0dca4f57729bcf293645ea7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/a36b3391250ef846d26ec09000bcbc0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/902bafb8a564c7ddf2e26ae48b121130/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/17b6ba9a3c5da160e45ef88bc1d6f88f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/3b1db20d817619f6b672b3935a6849d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/10581601b921c2a47601a4e20b7aedd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/68bd17a83650aaef51c413e302e685a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/bd3d2d2cf0c842267cf6fa3534f458d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/54c50c9d8aff5737c650ee35f6fcd96f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/1f040f90f6c4b7736e6a2fdc484af8e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/70949ff0c8f725f2f17cef52812db0d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/43419ac9801e2ce97b37d0a9b3cf6f9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/4e3a950321d15090f7dd11a522a5cb24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/910cfc61d78aeff33b1237a6810e588b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/b81910321b1286bfde316e5fd679a70c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/62aa20df7705043d5532afd5597af41a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/4c31738d8967c154b3114379477cd6e0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/29b836ebee8cbe97d4cc9da68df35548/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/ce741b2042f713eeb3527a57c9394698/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/1f5d7461a6dbc373d62c1e510cd3a5fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/9dce5b2f06919a174c9b852e7470796c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/7646d72a1632514c6e62f2212763c9d3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/487f69ec0c7a37bf4ab40fd42c30ce49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/a4dfe49fc7e4ded67ed26d1c452aeca0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/0afb1d659d0906eec67f8663329ff41d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/16d0b4732deaea06cfe342fad29265e8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/984cafecadd01bfc119878c7f3adc40c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+		INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/flora/.gradle/caches/transforms-2/files-2.1/19f600adb0dca4f57729bcf293645ea7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/flora/.gradle/caches/transforms-2/files-2.1/19f600adb0dca4f57729bcf293645ea7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/62aa20df7705043d5532afd5597af41a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/62aa20df7705043d5532afd5597af41a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/4c31738d8967c154b3114379477cd6e0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/4c31738d8967c154b3114379477cd6e0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/62aa20df7705043d5532afd5597af41a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:12:9-41
+	tools:ignore
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:17:9-48
+	android:roundIcon
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:16:9-44
+activity#com.bytedance.androidcamp.network.dou.MainActivity
+ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:22:27-74
+activity#com.bytedance.androidcamp.network.dou.VideoActivity
+ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml:25:19-48
+uses-sdk
+INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+MERGED from [:lib] /Users/flora/Android_Course/NetworkDemo/dou/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:lib] /Users/flora/Android_Course/NetworkDemo/dou/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/011b1159cb482ce1708558806e60f138/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/011b1159cb482ce1708558806e60f138/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/flora/.gradle/caches/transforms-2/files-2.1/19f600adb0dca4f57729bcf293645ea7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/flora/.gradle/caches/transforms-2/files-2.1/19f600adb0dca4f57729bcf293645ea7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/a36b3391250ef846d26ec09000bcbc0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/a36b3391250ef846d26ec09000bcbc0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/902bafb8a564c7ddf2e26ae48b121130/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/902bafb8a564c7ddf2e26ae48b121130/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/17b6ba9a3c5da160e45ef88bc1d6f88f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/17b6ba9a3c5da160e45ef88bc1d6f88f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/3b1db20d817619f6b672b3935a6849d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/3b1db20d817619f6b672b3935a6849d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/10581601b921c2a47601a4e20b7aedd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/10581601b921c2a47601a4e20b7aedd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/68bd17a83650aaef51c413e302e685a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/68bd17a83650aaef51c413e302e685a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/bd3d2d2cf0c842267cf6fa3534f458d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/bd3d2d2cf0c842267cf6fa3534f458d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/54c50c9d8aff5737c650ee35f6fcd96f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/54c50c9d8aff5737c650ee35f6fcd96f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/1f040f90f6c4b7736e6a2fdc484af8e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/1f040f90f6c4b7736e6a2fdc484af8e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/70949ff0c8f725f2f17cef52812db0d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/70949ff0c8f725f2f17cef52812db0d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/43419ac9801e2ce97b37d0a9b3cf6f9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/43419ac9801e2ce97b37d0a9b3cf6f9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/4e3a950321d15090f7dd11a522a5cb24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/4e3a950321d15090f7dd11a522a5cb24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/910cfc61d78aeff33b1237a6810e588b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/910cfc61d78aeff33b1237a6810e588b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/b81910321b1286bfde316e5fd679a70c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/b81910321b1286bfde316e5fd679a70c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/62aa20df7705043d5532afd5597af41a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/62aa20df7705043d5532afd5597af41a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/4c31738d8967c154b3114379477cd6e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/4c31738d8967c154b3114379477cd6e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/29b836ebee8cbe97d4cc9da68df35548/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/29b836ebee8cbe97d4cc9da68df35548/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/ce741b2042f713eeb3527a57c9394698/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/ce741b2042f713eeb3527a57c9394698/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/1f5d7461a6dbc373d62c1e510cd3a5fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/1f5d7461a6dbc373d62c1e510cd3a5fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/9dce5b2f06919a174c9b852e7470796c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/9dce5b2f06919a174c9b852e7470796c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/7646d72a1632514c6e62f2212763c9d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/7646d72a1632514c6e62f2212763c9d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/487f69ec0c7a37bf4ab40fd42c30ce49/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/487f69ec0c7a37bf4ab40fd42c30ce49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/a4dfe49fc7e4ded67ed26d1c452aeca0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/flora/.gradle/caches/transforms-2/files-2.1/a4dfe49fc7e4ded67ed26d1c452aeca0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/0afb1d659d0906eec67f8663329ff41d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/0afb1d659d0906eec67f8663329ff41d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/16d0b4732deaea06cfe342fad29265e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/16d0b4732deaea06cfe342fad29265e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/984cafecadd01bfc119878c7f3adc40c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/flora/.gradle/caches/transforms-2/files-2.1/984cafecadd01bfc119878c7f3adc40c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+		INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+		ADDED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
+		INJECTED from /Users/flora/Android_Course/NetworkDemo/dou/dou/src/main/AndroidManifest.xml
